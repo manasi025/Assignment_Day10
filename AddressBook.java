@@ -9,3 +9,17 @@ public class AddressBook {
 	}
 
 }
+
+
+/*
+
+OUTPUT :
+
+First_Name : Ram    Last_Name : Kumar 
+Address : Nashik Road 
+City : Nashik     State : Maharashtra
+Zipcode : 422101
+Phone No : 8754321
+Email : rk025@gmail.com  
+
+*/
