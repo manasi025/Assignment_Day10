@@ -22,7 +22,7 @@ public class Contact
 		this.email = email;
 		this.zipCode = zipCode;
 		this.phoneNo = phoneNo;
-		System.out.println("First_Name : " + firstName + "   Last_Name : " + lastName + "\nAddress : " + address + "\nCity : " + city +
+		System.out.println("\nFirst_Name : " + firstName + "   Last_Name : " + lastName + "\nAddress : " + address + "\nCity : " + city +
 				"    State : " + state + "\nZipcode : " + zipCode + "\nPhone No : " + phoneNo + "\nEmail : " + email + "  ");
 	
 	}
